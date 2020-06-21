@@ -7,3 +7,19 @@ There are totally 5 machine problems including in this course.
 ## Machine Problem Description 
 
 
+### Machine Problem 0
+In this mp, I reviewed the calculus and linear algebra knowledge. Also, I tried to combine and align the Prokudin-Gorskii’s black-and-white (grayscale) image composites based on *SSD* and *ZNCC*. Given three grayscale channels, I could reproduce the original RGB images, which have great quality.
+
+### Machine Problem 1
+In mp1, I proved that the vanishing points of lines on the plane lie on the vanishing line of the plane and I derived the ellipse projected by sphere satisfied an equation about teh center and radius of sphere. Also, I estimated the albedo and surface normals to implement shape from shading. 
+
+### Machine Problem 2
+In mp2, I simulated optical flow induced on the image of a static scene due to camera motion and visualized the optical flow using python. Then, I built a basic contour detector using derivative of Gaussian ﬁlters and non-maximum suppression on BSDS *dataset*. 
+
+### Machine Problem 3
+
+
+### Machine Problem 4
+
+
+
